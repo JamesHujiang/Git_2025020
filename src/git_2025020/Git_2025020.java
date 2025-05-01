@@ -15,6 +15,7 @@ public class Git_2025020 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Jiang Hu - 2025020");
     }
     
 }
